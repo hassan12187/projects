@@ -1,0 +1,69 @@
+﻿@model Hr_Vacancy_Managment.Models.User
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_WebsiteLayout.cshtml";
+}
+<section>
+    <div class="container">
+<h1>Register</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Register" method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label for="User_Name" class="control-label">Username</label>
+                <input asp-for="User_Name" class="form-control" placeholder="Username" />
+                <span asp-validation-for="User_Name" class="text-danger"></span>
+                        <input type="hidden" asp-for="@ViewData["returnUrl"]" name="returnUrl" />
+            </div>
+            <div class="form-group">
+                <label for="User_Email" class="control-label">Email</label>
+                        <input asp-for="User_Email" class="form-control" placeholder="Email" autocomplete="off" />
+                <span asp-validation-for="User_Email" class="text-danger"></span>
+                        <span id="existingEmail"></span>
+            </div>
+            <div class="form-group">
+                <label for="User_Password" class="control-label">Password</label>
+                        <input asp-for="User_Password" class="form-control" placeholder="Password" />
+                <span asp-validation-for="User_Password" class="text-danger"></span>
+            </div>
+            <div>
+                <a asp-action="Login" class="text-primary">Already have an account? Login.</a>
+            </div>
+            <div class="form-group mt-3 d-flex justify-content-center">
+                <input type="submit" value="Register" class="btn" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+    </div>
+</section>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $(document).on("keyup", "#User_Email", function (e) { 
+            let email = e.target.value;
+            $.ajax({
+                url: "/User/searchEmail",
+                type:"post",
+                data: {email:email},
+                success: function ({text,color}){
+                    $("#existingEmail").html(text);
+                    $("#existingEmail").css("color",color);
+                    let email = $("#User_Email").val();
+                    if (email === "") {
+                        $("#existingEmail").html("");
+                    }
+                }
+            })
+        })
+    })
+</script>

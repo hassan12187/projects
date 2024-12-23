@@ -1,0 +1,73 @@
+﻿@model Hr_Vacancy_Managment.Models.Vacancy
+
+@{
+    ViewData["Title"] = "Edit_Vacancy";
+}
+
+<h1>Edit_Vacancy</h1>
+
+<h4>Vacancy</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit_Vacancy">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input type="hidden" asp-for="Vacancy_ID" class="form-control" />
+                <input type="hidden" asp-for="Vacancy_Number" class="form-control" />
+                <input type="hidden" name="prev_Status" id="prev_Status" value="@Model.Vacancy_Status" />
+                <input type="hidden" asp-for="Date_Of_Creation" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Vacancy_Title" class="control-label"></label>
+                <input asp-for="Vacancy_Title" class="form-control" />
+                <span asp-validation-for="Vacancy_Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vacancy_Description" class="control-label"></label>
+                <input asp-for="Vacancy_Description" class="form-control" />
+                <span asp-validation-for="Vacancy_Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Number_Of_Jobs_Under_Vacancy" class="control-label"></label>
+                <input asp-for="Number_Of_Jobs_Under_Vacancy" class="form-control" />
+                <span asp-validation-for="Number_Of_Jobs_Under_Vacancy" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Depart_ID" class="control-label"></label>
+                <select asp-for="Depart_ID" asp-items="ViewBag.departs" class="form-select"></select>
+                <span asp-validation-for="Depart_ID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Last_Date" class="control-label"></label>
+                <input asp-for="Last_Date" class="form-control" />
+                <span asp-validation-for="Last_Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Owned_By" class="control-label"></label>
+                <input asp-for="Owned_By" class="form-control" />
+                <span asp-validation-for="Owned_By" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vacancy_Status" class="control-label"></label>
+                <select asp-for="Vacancy_Status" asp-items="@Html.GetEnumSelectList<Vacancy_Status>()" class="form-select"></select>
+                <span asp-validation-for="Vacancy_Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Vacancies">Back to List</a>
+</div>
+<div class="alert alert-primary show fade d-none" style="position:fixed;top:10px;right:10px;" role="alert">
+    @TempData["closedVac"]
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

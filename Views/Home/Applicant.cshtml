@@ -1,0 +1,122 @@
+﻿@model IEnumerable<Hr_Vacancy_Managment.Models.Applicant>
+
+@{
+    ViewData["Title"] = "Applicant";
+}
+
+<h1>Applicant</h1>
+
+<button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Create New Applicant
+</button>
+<div style="overflow-x:scroll">
+<table class="table table-striped table-bordered mt-2">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Applicant_ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Applicant_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Applicant_Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Applicant_Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Applied_For)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Applicant_Number)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Creation_Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Applicant_Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Applicant_ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Applicant_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Applicant_Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Applicant_Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Applied_For)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Applicant_Number)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Creation_Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Applicant_Status)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit_Applicant", new { id=item.Applicant_ID }) |
+                        @Html.ActionLink("Details", "Applicant_Details", new { id = item.Applicant_ID }) |
+                @Html.ActionLink("Delete", "Delete_Applicant", new { id=item.Applicant_ID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Add Applicant Ddetails</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form method="POST" enctype="multipart/form-data">
+                <div class="modal-body">
+                    <div class="form-group mt-2">
+                        <label for="Applicant_Name" class="fw-bold">Name</label>
+                        <input type="text" class="form-control" id="Applicant_Name" placeholder="Enter Name" name="Applicant_Name" />
+                    </div>
+                    <div class="form-group mt-2">
+                        <label for="Applicant_Email" class="fw-bold">Email</label>
+                        <input type="text" class="form-control" id="Applicant_Email" placeholder="Enter Email" name="Applicant_Email" />
+                    </div>
+                    <div class="form-group mt-2">
+                        <label for="Applicant_Phone" class="fw-bold">Phone</label>
+                        <input type="number" class="form-control" id="Applicant_Phone" placeholder="Enter Phone" name="Applicant_Phone" />
+                    </div>
+                    <div class="form-group mt-2">
+                        <label for="Applicant_CV" class="fw-bold">Cv</label>
+                        <input type="file" class="form-control" id="Applicant_CV" name="filecv" />
+                    </div>
+                    <div class="form-group mt-2">
+                        <label for="Applied_For" class="fw-bold">Vacancies</label>
+                        <select asp-items="ViewBag.vacancies" class="form-select" name="Applied_For" id="Applied_For">
+                            <option value="" hidden>Select Any Vacancy</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <input type="submit" name="" class="btn btn-secondary my-2" value="Enter">
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="alert alert-primary show fade d-none" style="position:fixed;top:10px;right:10px;" role="alert">
+    @TempData["SuccessUpdating"]
+</div

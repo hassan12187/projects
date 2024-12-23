@@ -1,0 +1,54 @@
+﻿
+@model Hr_Vacancy_Managment.Models.Applicant
+
+@{
+    ViewData["Title"] = "Form";
+    Layout = "~/Views/Shared/_WebsiteLayout.cshtml";
+}
+<section>
+    <div class="container">
+<h1>Form</h1>
+
+<h4>Applicant</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Form" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label for="Applicant_Name" class="control-label">Name</label>
+                <input asp-for="Applicant_Name" class="form-control" placeholder="Name"/>
+                <span asp-validation-for="Applicant_Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Applicant_Email" class="control-label">Email</label>
+                <input asp-for="Applicant_Email" class="form-control" placeholder="Email"/>
+                <span asp-validation-for="Applicant_Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Applicant_Phone" class="control-label">Phone No</label>
+                <input asp-for="Applicant_Phone" class="form-control" placeholder="Phone No"/>
+                <span asp-validation-for="Applicant_Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="image" class="control-label">Upload Resume</label>
+                <input type="file" name="image" id="image" />
+                <span asp-validation-for="Applicant_CV" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Applied_For" class="control-label">Applying For</label>
+                <input asp-for="Applied_For" class="form-control" readonly/>
+                <span asp-validation-for="Applied_For" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Apply" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+    </div>
+</section>

@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Hr_Vacancy_Managment.Models.Department>
+
+@{
+    ViewData["Title"] = "Department";
+}
+
+<h1>Department</h1>
+<button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Create New Department
+</button>
+<table class="table table-striped table-bordered mt-2">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Department_ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Department_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Department_Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Created_At)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Department_ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Department_Name)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Department_Status)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Created_At)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Department_ID }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                 @Html.ActionLink("Delete", "Delete", new { id = item.Department_ID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Add Plant Category</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form method="POST">
+                <div class="modal-body">
+                    <input type="text" class="form-control" name="Department_Name" />
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <input type="submit" name="" class="btn btn-secondary my-2" value="Enter">
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

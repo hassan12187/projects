@@ -1,0 +1,1429 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Hr_Vacancy_Managment.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Hr_Vacancy_Managment.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\CVS\\116284001_1014332748987828_5652814600373283149_n.jpg",
+      "PackagePath": "staticwebassets\\CVS\\116284001_1014332748987828_5652814600373283149_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\CVS\\450548379_918825416925549_6871270797067248617_n.jpg",
+      "PackagePath": "staticwebassets\\CVS\\450548379_918825416925549_6871270797067248617_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\CVS\\450559750_941959311277030_1755990744600399702_n.jpg",
+      "PackagePath": "staticwebassets\\CVS\\450559750_941959311277030_1755990744600399702_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\CVS\\450875601_454732794148233_2790350187230614176_n.jpg",
+      "PackagePath": "staticwebassets\\CVS\\450875601_454732794148233_2790350187230614176_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\CVS\\451582077_404686292577540_2561494386138267730_n.jpg",
+      "PackagePath": "staticwebassets\\CVS\\451582077_404686292577540_2561494386138267730_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\CVS\\85120553.jpg",
+      "PackagePath": "staticwebassets\\CVS\\85120553.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\CVS\\Lalo Salamanca.jpeg",
+      "PackagePath": "staticwebassets\\CVS\\Lalo Salamanca.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\CVS\\ليونيل ميسي \uD83D\uDE0D Lionel Messi.jpeg",
+      "PackagePath": "staticwebassets\\CVS\\ليونيل ميسي \uD83D\uDE0D Lionel Messi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\CVS\\\uD83D\uDEAC \uD83D\uDD25.jpeg",
+      "PackagePath": "staticwebassets\\CVS\\\uD83D\uDEAC \uD83D\uDD25.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\Webassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Webassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\Webassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\Webassets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Webassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Webassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Webassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\css\\price_rangs.css",
+      "PackagePath": "staticwebassets\\Webassets\\css\\price_rangs.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Webassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\Webassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\Webassets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Webassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Webassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Webassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\about\\about_lft.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\about\\about_lft.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\about\\about_right.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\about\\about_right.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\about\\pet_care.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\about\\pet_care.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\adapt_icon\\1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\adapt_icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\adapt_icon\\1.svg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\adapt_icon\\1.svg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\adapt_icon\\2.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\adapt_icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\adapt_icon\\3.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\adapt_icon\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\banner\\dog.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\banner\\dog.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\banner\\img.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\banner\\img.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\blog\\home-blog1.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\blog\\home-blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\blog\\home-blog2.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\blog\\home-blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\Webassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\gallery\\1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\gallery\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\gallery\\2.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\gallery\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\gallery\\3.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\gallery\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\gallery\\cv_bg.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\gallery\\cv_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\gallery\\how-applybg.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\gallery\\how-applybg.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\hero\\about.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\hero\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\hero\\h1_hero.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\hero\\h1_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\icon\\form.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\icon\\form.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\icon\\job-list1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\icon\\job-list1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\icon\\job-list2.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\icon\\job-list2.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\icon\\job-list3.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\icon\\job-list3.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\icon\\job-list4.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\icon\\job-list4.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\logo\\form-iocn.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\logo\\form-iocn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\logo\\loder.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\logo\\loder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\logo\\logo2_footer.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\logo\\logo2_footer.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\logo\\select-items-icon.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\logo\\select-items-icon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\logo\\testimonial.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\logo\\testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\offers\\1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\offers\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\offers\\2.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\offers\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\offers\\3.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\offers\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\our_blog\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\our_blog\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\prising\\1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\prising\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\prising\\10.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\prising\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\prising\\2.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\prising\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\prising\\3.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\prising\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\prising\\4.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\prising\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\prising\\5.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\prising\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\prising\\6.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\prising\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\prising\\7.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\prising\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\prising\\8.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\prising\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\prising\\9.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\prising\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\service\\1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\service\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\service\\2.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\service\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\service\\3.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\service\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\service\\footer_bg.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\service\\footer_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\service\\service_icon_1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\service\\service_icon_1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\service\\service_icon_2.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\service\\service_icon_2.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\service\\service_icon_3.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\service\\service_icon_3.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\service\\service_icon_bg_1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\service\\service_icon_bg_1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\service\\support-img.jpg",
+      "PackagePath": "staticwebassets\\Webassets\\img\\service\\support-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\team\\1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\team\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\team\\2.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\team\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\team\\3.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\team\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\testmonial\\1.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\testmonial\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\img\\testmonial\\testimonial-founder.png",
+      "PackagePath": "staticwebassets\\Webassets\\img\\testmonial\\testimonial-founder.png"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\animated.headline.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\animated.headline.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\one-page-nav-min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\one-page-nav-min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\price_rangs.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\price_rangs.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\Webassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_apply-proces.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_apply-proces.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_blog_page.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_blog_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_color.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_cv-online.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_cv-online.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_featured-Jobs.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_featured-Jobs.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_h1-hero.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_h1-hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_headerMenu.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_headerMenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_job_details.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_job_details.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_job_listing.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_job_listing.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_overlay.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_overlay.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_recent.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_recent.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_services.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_services_section.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_services_section.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_support-company.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_support-company.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\Webassets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Webassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\typed.js\\typed.cjs",
+      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.cjs"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\typed.js\\typed.cjs.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\typed.js\\typed.module.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.module.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\typed.js\\typed.module.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.module.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\typed.js\\typed.umd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\typed.js\\typed.umd.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.umd.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\assets\\vendor\\waypoints\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\waypoints\\noframework.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\azmbe\\Desktop\\myprojects\\Hr Managment Project\\Hr_Vacancy_Managment\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hr_Vacancy_Managment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Hr_Vacancy_Managment.props",
+      "PackagePath": "build\\Hr_Vacancy_Managment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hr_Vacancy_Managment.props",
+      "PackagePath": "buildMultiTargeting\\Hr_Vacancy_Managment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hr_Vacancy_Managment.props",
+      "PackagePath": "buildTransitive\\Hr_Vacancy_Managment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

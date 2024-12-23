@@ -1,0 +1,57 @@
+﻿@model Hr_Vacancy_Managment.Models.Employee
+
+@{
+    ViewData["Title"] = "Emp_Edit";
+}
+
+<h1>Edit Employee</h1>
+
+<h4>Employee</h4>
+<hr />
+
+        <form asp-action="Emp_Edit" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input type="hidden" asp-for="Employee_ID" class="form-control" />
+            </div>
+<d class="row">
+            <div class="form-group col-md-4">
+                <label asp-for="Employee_Name" class="control-label"></label>
+                <input asp-for="Employee_Name" class="form-control" />
+                <span asp-validation-for="Employee_Name" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="Employee_Number" class="control-label"></label>
+                <input asp-for="Employee_Number" class="form-control" readonly/>
+                <span asp-validation-for="Employee_Number" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="Employee_Status" class="control-label"></label>
+                <select class="form-select" asp-for="Employee_Status" asp-items="@Html.GetEnumSelectList<Employee_Status>()">
+                    <option hidden>Select Status</option>
+                </select>
+                <span asp-validation-for="Employee_Status" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="Created_At" class="control-label"></label>
+                <input asp-for="Created_At" class="form-control" readonly/>
+                <span asp-validation-for="Created_At" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="Depart_ID" class="control-label"></label>
+            <select asp-for="Depart_ID" class="form-select" asp-items="@ViewBag.departs"></select>
+                <span asp-validation-for="Depart_ID" class="text-danger"></span>
+            </div>
+        <div class="form-group mt-2">
+            <input type="submit" value="Save" class="btn btn-primary" />
+        </div>
+</div>
+
+        </form>
+<div>
+    <a asp-action="Employees">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

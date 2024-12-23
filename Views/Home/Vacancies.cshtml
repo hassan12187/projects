@@ -1,0 +1,150 @@
+﻿@model IEnumerable<Hr_Vacancy_Managment.Models.Vacancy>
+
+@{
+    ViewData["Title"] = "Vacancies";
+}
+
+<h1>Vacancies</h1>
+
+<button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Create New Vacancy
+</button>
+<div style="overflow-x:scroll">
+<table class="table table-striped table-bordered mt-2">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Vacancy_ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vacancy_Title)
+            </th>
+                <th>
+                @Html.DisplayNameFor(model => model.Vacancy_Number)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Number_Of_Jobs_Under_Vacancy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Depart_ID)
+            </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.salary)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Timing)
+                </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Last_Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date_Of_Creation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Owned_By)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vacancy_Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vacancy_ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vacancy_Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vacancy_Number)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Number_Of_Jobs_Under_Vacancy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Departments.Department_Name)
+            </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.salary)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Timing)
+                    </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Last_Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date_Of_Creation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Owned_By)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vacancy_Status)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit_Vacancy", new { id=item.Vacancy_ID }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+<div class="alert alert-primary show fade d-none" style="position:fixed;top:10px;right:10px;" role="alert">
+    @TempData["closedVac"]
+</div>
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Add Plant Category</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form method="POST">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="Vacancy_Title" class="fw-bold">Vacancy Title</label>
+                    <input type="text" class="form-control" id="Vacancy_Title" placeholder="Enter Title" name="Vacancy_Title" />
+                    </div>
+                    <div class="form-group mt-2">
+                        <label for="Vacancy_Description" class="fw-bold">Vacancy Description</label>
+                        <input type="text" class="form-control" placeholder="Enter Description" id="Vacancy_Description" name="Vacancy_Description" />
+                    </div>
+                    <div class="form-group mt-2">
+                        <label for="Depart_ID" class="fw-bold">Department</label>
+                        <select name="Depart_ID" id="Depart_ID" class="form-select" asp-items="@ViewBag.departs">
+                            <option hidden>Select Any Department</option>
+                        </select>
+                    </div>
+                     <div class="form-group mt-2">
+                        <label for="salary" class="fw-bold">Salary</label>
+                        <input type="number" name="salary" id="salary" class="form-control" placeholder="Enter Salary"/>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label for="Timing" class="fw-bold">Timing</label>
+                        <select id="Timing" name="Timing" class="form-select" asp-items="@Html.GetEnumSelectList<Timing>()">
+                            <option hidden>Select Any Of These</option>
+                        </select>
+                    </div>
+                    <div class="form-group mt-2">
+                        <label for="Number_Of_Jobs_Under_Vacancy" class="fw-bold">Number of Jobs</label>
+                        <input type="number" class="form-control" name="Number_Of_Jobs_Under_Vacancy" id="Number_Of_Jobs_Under_Vacancy" />
+                    </div>
+                    <div class="form-group mt-2">
+                        <label for="Last_Date" class="fw-bold">Last Date of Vacancy</label>
+                        <input type="date" class="form-control" name="Last_Date" id="Last_Date" />
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <input type="submit" name="" class="btn btn-secondary my-2" value="Enter">
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

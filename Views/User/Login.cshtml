@@ -1,0 +1,41 @@
+﻿@model Hr_Vacancy_Managment.Models.User
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_WebsiteLayout.cshtml";
+}
+<section class="py-3">
+    <div class="container">
+<h1>Login</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Login" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label for="User_Email" class="control-label">Email</label>
+                <input asp-for="User_Email" class="form-control" placeholder="Email"/>
+                <span asp-validation-for="User_Email" class="text-danger"></span>
+                        <input type="hidden" asp-for="@ViewData["returnUrl"]" name="returnUrl" />
+            </div>
+            <div class="form-group">
+                <label for="User_Password" class="control-label">Password</label>
+                <input asp-for="User_Password" class="form-control" placeholder="Password"/>
+                <span asp-validation-for="User_Password" class="text-danger"></span>
+            </div>
+            <div class="d-flex justify-content-between mb-2">
+                        <a asp-action="Register" asp-route-returnUrl="@ViewData["returnUrl"]" class="text-primary">Don't have an account?<br /> Sign Up!</a>
+                <div class="form-check">
+                    <input type="checkbox" id="rememberMe" class="form-check-input" />
+                    <label for="rememberMe" class="form-check-label">Remember Me</label>
+                </div>
+            </div>
+            <div class="form-group mt-2 d-flex align-items-center justify-content-center">
+                <input type="submit" value="Login" class="btn" />
+            </div>
+        </form>
+    </div>
+</div>
+    </div>
+</section>

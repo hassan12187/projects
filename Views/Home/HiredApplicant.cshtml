@@ -1,0 +1,90 @@
+﻿@model IEnumerable<Hr_Vacancy_Managment.Models.Applicant_Vacancy>
+
+@{
+    ViewData["Title"] = "HiredApplicant";
+}
+
+<h1>Hired Applicants</h1>
+<div style="overflow-x:scroll">
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Applicant_Vacancy_ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Applicant_ID)
+            </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.applicant.Applicant_Name)
+                </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vacancy_ID)
+            </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.vacancy.Vacancy_Title)
+                </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Applied_Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Interviewer_Number)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Interviewer_Name)
+            </th>
+            <th>
+                @Html.DisplayName("Interview_Date")
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.App_Vac_Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Applicant_Vacancy_ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Applicant_ID)
+            </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.applicant.Applicant_Name)
+                    </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vacancy_ID)
+            </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.vacancy.Vacancy_Title)
+                    </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Applied_Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Interviewer_Number)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Interviewer_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Scheduled_Interview_Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.App_Vac_Status)
+            </td>
+            <td>
+                        @Html.ActionLink("Edit", "Edit_Interview_Schedule", new { id = item.Applicant_Vacancy_ID }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+<div class="alert alert-primary show fade d-none" style="position:fixed;top:10px;right:10px;" role="alert">
+    @TempData["vacancyClose"]
+</div>

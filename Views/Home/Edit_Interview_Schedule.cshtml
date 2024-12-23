@@ -1,0 +1,91 @@
+﻿@model Hr_Vacancy_Managment.Models.Applicant_Vacancy
+
+@{
+    ViewData["Title"] = "Edit_Interview_Schedule";
+}
+
+<h1>Edit_Interview_Schedule</h1>
+
+<h4>Applicant_Vacancy</h4>
+<hr />
+        <form asp-action="Edit_Interview_Schedule">
+<div class="row justify-content-center gap-4">
+    <div class="col-md-4">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group mt-2">
+                <input type="hidden" asp-for="Applicant_Vacancy_ID" class="form-control" />
+                <span asp-validation-for="Applicant_Vacancy_ID" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="Applicant_ID" class="control-label fw-bold"></label>
+                <input asp-for="Applicant_ID" class="form-control" />
+                <span asp-validation-for="Applicant_ID" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="Vacancy_ID" class="control-label fw-bold"></label>
+                <input asp-for="Vacancy_ID" class="form-control" />
+                <span asp-validation-for="Vacancy_ID" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="Applied_Date" class="control-label fw-bold"></label>
+                <input asp-for="Applied_Date" class="form-control" />
+                <span asp-validation-for="Applied_Date" class="text-danger"></span>
+            </div>
+    </div>
+    <div class="col-md-4">
+            <div class="form-group mt-2">
+                <label asp-for="Interviewer_Number" class="control-label fw-bold"></label>
+                <select asp-items="ViewBag.Interviewers" asp-for="Interviewer_Number" class="form-select">
+                    <option hidden>Select any Interviewer</option>
+                </select>
+                <span asp-validation-for="Interviewer_Number" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="Interviewer_Name" class="control-label fw-bold"></label>
+                <input asp-for="Interviewer_Name" class="form-control" readonly/>
+                <span asp-validation-for="Interviewer_Name" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="Scheduled_Interview_Date" class="control-label fw-bold"></label>
+                <input asp-for="Scheduled_Interview_Date" class="form-control" />
+                <span asp-validation-for="Scheduled_Interview_Date" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="App_Vac_Status" class="control-label fw-bold"></label>
+                <select asp-for="App_Vac_Status" asp-items="Html.GetEnumSelectList<Applicant_Vacancy_Status>()" class="form-select"></select>
+                <span asp-validation-for="App_Vac_Status" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+    </div>
+        </form>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+<div class="alert alert-primary show fade d-none" style="position:fixed;top:10px;right:10px;" role="alert">
+    @TempData["errorDate"]
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(document).on("change", "#Interviewer_Number", function (e) {
+            const empNum = e.target.value;
+            $.ajax({
+                url: "/Home/EmployeeNameWidNum",
+                type:"POST",
+                data: {empNum:empNum},
+                success: function ({employee_Name}) {
+                    $("#Interviewer_Name").val(employee_Name);
+                    console.log(employee_Name);
+                }
+            })
+        })
+    })
+</script>
